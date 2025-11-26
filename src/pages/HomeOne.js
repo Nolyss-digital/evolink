@@ -1,7 +1,7 @@
 import React, {Fragment} from 'react';
 
 import Header from '../components/Header'
-import Slider from '../components/Slider/home-one'
+import Slider from '../components/Slider/home-two'
 import About from '../components/About/home-one'
 import Features from '../components/Features'
 import Services from '../components/Services'

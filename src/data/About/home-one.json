@@ -1,9 +1,9 @@
 {
-  "title": "ABOUT US",
-  "heading": "Provide best <br /> Business Solutions",
-  "since": "Since 2010",
-  "text": "<strong>Businex</strong> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
-  "btnText": "More Details",
-  "btnLink": "/about",
+  "title": "À PROPOS",
+  "heading": "Votre partenaire <br /> multiservices",
+  "since": "Depuis 2024",
+  "text": "<strong>Notre société</strong> accompagne les entreprises dans leurs transitions énergétique, numérique et juridiques. Nous proposons des solutions fiables, efficaces et adaptées pour optimiser leurs coûts, accélérer leur transformation et simplifier toutes leurs démarches. Grâce à notre réseau de partenaires spécialisés, nous offrons un accompagnement complet et orienté résultats.",
+  "btnText": "En savoir plus",
+  "btnLink": "/a-propos",
   "thumb": "/about.jpg"
 }

@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Provide the best solutions for your business",
-    "text": "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.",
+    "title": "Votre partenaire multiservices pour vos transitions",
+    "text": "Nous accompagnons les entreprises dans leurs transitions énergétique, numérique et juridiques en leur offrant des solutions fiables, efficaces et adaptées à leurs enjeux.",
     "bg": "slider/h-2-01.jpg",
-    "btnText": "Learn More",
-    "btnLink": "/about"
+    "btnText": "Découvrir nos services",
+    "btnLink": "/services"
   },
   {
     "id": 2,

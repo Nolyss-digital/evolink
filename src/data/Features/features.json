@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Creative Team",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Équipe Experte",
+    "text": "Des spécialistes dédiés à vos transitions.",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
-    "title": "Best Service",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Services Complets",
+    "text": "Une offre couvrant énergie, digital et juridique.",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
-    "title": "Online Support",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Support Continu",
+    "text": "Un accompagnement fiable à chaque étape.",
     "imgSrc": "feature/03.png"
   }
 ]
