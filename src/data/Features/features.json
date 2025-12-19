@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Équipe Experte",
-    "text": "Des spécialistes dédiés à vos transitions.",
+    "title": "Transition énergétique",
+    "text": "Accompagnement structuré pour simplifier et maîtriser vos enjeux énergétiques.",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
-    "title": "Services Complets",
-    "text": "Une offre couvrant énergie, digital et juridique.",
+    "title": "Transition numérique",
+    "text": "Simplification des processus et sécurisation de vos outils numériques.",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
-    "title": "Support Continu",
-    "text": "Un accompagnement fiable à chaque étape.",
+    "title": "Conformité juridique",
+    "text": "Mise à jour juridique, conformité réglementaire et veille continue.",
     "imgSrc": "feature/03.png"
   }
 ]

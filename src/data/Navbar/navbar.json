@@ -1,48 +1,54 @@
 [
   {
     "id": 1,
-    "title": "Accueil",
+    "title": "Notre Vision",
     "link": "/",
     "megaMenu": false,
     "subMenu": false
   },
  {
   "id": 2,
-  "title": "Services",
-  "link": "/services",
+  "title": "Transition",
+  "link": "/transition",
   "megaMenu": false,
   "subMenu": [
     {
       "id": 2.1,
       "title": "Transition Énergétique",
-      "link": "/services/transition-energetique"
+      "link": "/transition/transition-energetique"
     },
     {
       "id": 2.2,
       "title": "Transition Numérique",
-      "link": "/services/transition-numerique"
+      "link": "/transition/transition-numerique"
     },
     {
-      "id": 2.3,
-      "title": "Formalités Juridiques",
-      "link": "/services/formalites-juridiques"
+      "id": 2.2,
+      "title": "Conformité juridique",
+      "link": "/transition/Conformite-juridique"
     }
   ]
 },
-  {
-    "id": 3,
-    "title": "À propos",
-    "link": "/a-propos",
-    "megaMenu": false,
-    "subMenu": false
-  },
-  {
-    "id": 4,
-    "title": "Blog",
-    "link": "/blog",
-    "megaMenu": false,
-    "subMenu": false
-  },
+
+{
+  "id": 2,
+  "title": "Accompagnement",
+  "link": "/accompagnement",
+  "megaMenu": false,
+  "subMenu": [
+    {
+      "id": 2.1,
+      "title": "Clients",
+      "link": "/accompagnement/clients"
+    },
+    {
+      "id": 2.2,
+      "title": "Partenaires",
+      "link": "/accompagnement/partenaires"
+    }
+  ]
+},
+
   {
     "id": 5,
     "title": "Contact",

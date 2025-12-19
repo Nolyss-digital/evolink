@@ -1,98 +1,50 @@
 [
   {
     "id": 1,
-    "title": "Creative Ideas",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "title": "Transition énergétique",
+    "shortDesc": "Accompagnement structuré pour simplifier et maîtriser vos enjeux énergétiques.",
     "thumb": "service/01.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p>Nous accompagnons les entreprises dans leur transition énergétique en facilitant l’accès à des services fiables et conformes. Notre approche vise à simplifier les décisions énergétiques tout en intégrant les contraintes réglementaires et les objectifs de performance.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Structuration des démarches énergétiques",
+      "Maîtrise des obligations réglementaires"
     ]
   },
   {
     "id": 2,
-    "title": "Digital Solutions",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "title": "Transition numérique",
+    "shortDesc": "Simplification des processus et sécurisation de vos outils numériques.",
     "thumb": "service/02.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p>La transition numérique est un levier stratégique lorsqu’elle est bien pensée. Nous vous accompagnons dans la structuration de vos outils, la simplification des processus et l’interconnexion de vos services, en toute sécurité.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Optimisation et modernisation des systèmes",
+      "Sécurisation et continuité des services"
     ]
   },
   {
     "id": 3,
-    "title": "Brand & Communication",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
+    "title": "Conformité juridique",
+    "shortDesc": "Mise à jour juridique, conformité réglementaire et veille continue.",
     "thumb": "service/03.jpg",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
       "service/details/03.jpg"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p>Nous prenons en charge les tâches juridiques chronophages afin de sécuriser vos activités. De la mise à jour juridique à la conformité réglementaire, en passant par la veille juridique numérique et l’accompagnement fiscal, nous réduisons les risques et facilitons votre quotidien.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Creative Strategy",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/04.jpg",
-    "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Marketing Policy",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/05.jpg",
-    "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Campaign & PR",
-    "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/06.jpg",
-    "previewImages": [
-      "service/details/03.jpg",
-      "service/details/01.jpg",
-      "service/details/02.jpg"
-    ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
-    "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Mise à jour et conformité juridique",
+      "Veille réglementaire et accompagnement fiscal"
     ]
   }
 ]

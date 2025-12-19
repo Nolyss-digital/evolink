@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "David Loyed",
+    "quote": "Evolink nous a permis de déléguer des sujets complexes et chronophages. Leur accompagnement nous a apporté clarté, conformité et sérénité.",
+    "author": "Direction Générale",
     "authorThumb": "testimonial/client-01.jpg"
   },
   {
     "id": 2,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "Alex Tuntuni",
+    "quote": "Une approche structurée et professionnelle. Les équipes d’Evolink ont su simplifier nos enjeux juridiques et organisationnels.",
+    "author": "Responsable Administratif",
     "authorThumb": "testimonial/client-02.jpg"
   },
   {
     "id": 3,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "John Fault",
+    "quote": "Grâce à Evolink, nous avons gagné du temps et sécurisé nos décisions, tout en restant concentrés sur notre cœur de métier.",
+    "author": "Dirigeant PME",
     "authorThumb": "testimonial/client-03.jpg"
   }
 ]

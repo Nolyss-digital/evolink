@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Votre partenaire multiservices pour vos transitions",
-    "text": "Nous accompagnons les entreprises dans leurs transitions énergétique, numérique et juridiques en leur offrant des solutions fiables, efficaces et adaptées à leurs enjeux.",
+    "title": "Faciliter les services. Connecter les transitions",
+    "text": "Evolink accompagne les entreprises dans leurs transitions énergétique, numérique et réglementaire, en simplifiant l’accès à des services essentiels, fiables et conformes.",
     "bg": "slider/h-2-01.jpg",
-    "btnText": "Découvrir nos services",
+    "btnText": "Découvrir notre approche",
     "btnLink": "/services"
   },
   {
     "id": 2,
-    "title": "Invest your money <br/> with us",
-    "text": "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.",
+    "title": "Nous vous accompagnons dans les tâches chronophages",
+    "text": "De la mise à jour juridique à la gestion des obligations réglementaires, Evolink prend en charge les sujets complexes et chronophages afin de vous permettre de vous concentrer sur l’essentiel.",
     "bg": "slider/h-2-02.jpg",
-    "btnText": "Learn More",
+    "btnText": "Comprendre notre accompagnement",
     "btnLink": "/about"
   }
 ]
